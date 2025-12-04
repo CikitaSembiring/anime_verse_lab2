@@ -90,6 +90,6 @@ Aplikasi ini tersedia sebagai rilis resmi. Pastikan Anda mengunduh file APK dari
 
 | Deskripsi | Tautan | Tag Versi Terakhir |
 | :--- | :--- | :--- |
-| **Download APK Terbaru** | [**KLIK DISINI UNTUK KE HALAMAN RELEASES**](**(https://github.com/CikitaSembiring/anime_verse_lab2/releases)]**) | **v1.0.1**  |
+| **Download APK Terbaru** | [**https://github.com/CikitaSembiring/anime_verse_lab2/releases**](**[(https://github.com/CikitaSembiring/anime_verse_lab2/releases)]**) | **v1.0.1**  |
 
 ---
