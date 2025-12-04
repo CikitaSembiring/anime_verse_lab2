@@ -56,7 +56,8 @@ Tampilkan semua screen utama yang berfungsi. **Ganti placeholder di bawah dengan
 
 | Nama Screen | Tampilan Aplikasi |
 | :--- | :--- |
-| **Halaman Otentikasi (Sign In/Up)** | **"D:\SS\Screenshot_20251205_004719.png"** |
+| **Halaman Otentikasi (Sign In/Up)** | **<img width="300" alt="Screenshot_20251205_004719" src="https://github.com/user-attachments/assets/f44bd78b-8ee8-4d0a-b6b1-f33614a2fe8d" />
+** |
 | **Halaman Browse Anime (Home)** | **** |
 | **Halaman Detail Anime** | **** |
 | **Halaman Favorites List** | **** |
