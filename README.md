@@ -58,10 +58,14 @@ Tampilkan semua screen utama yang berfungsi. **Ganti placeholder di bawah dengan
 | :--- | :--- |
 | **Halaman Otentikasi (Sign In/Up)** | **<img width="300" alt="Screenshot_20251205_004719" src="https://github.com/user-attachments/assets/f44bd78b-8ee8-4d0a-b6b1-f33614a2fe8d" />
 ** |
-| **Halaman Browse Anime (Home)** | **** |
-| **Halaman Detail Anime** | **** |
-| **Halaman Favorites List** | **** |
-| **Halaman Profile & Settings** | **** |
+| **Halaman Dashboard** | **<img width="300" alt="Screenshot_20251205_004425" src="https://github.com/user-attachments/assets/8321b62b-4dcb-47ed-88da-1fcfefb82074" />
+** |
+| **Halaman Detail Anime** | **<img width="300" alt="image" src="https://github.com/user-attachments/assets/4e24eedd-3d4b-481e-8ece-5e282a4bfd63" />
+** |
+| **Halaman Favorites List** | **<img width="300" alt="Screenshot_20251205_004524" src="https://github.com/user-attachments/assets/31c818c9-cb6c-4074-bb9b-7dc5011d2073" />
+** |
+| **Halaman Profile & Settings** | **<img width="300" alt="Screenshot_20251205_004558" src="https://github.com/user-attachments/assets/c61f6439-f22d-40b0-9589-176c24867482" />
+** |
 | **Bukti Database Firebase** | **** |
 
 ---
@@ -91,6 +95,6 @@ Aplikasi ini tersedia sebagai rilis resmi. Pastikan Anda mengunduh file APK dari
 
 | Deskripsi | Tautan | Tag Versi Terakhir |
 | :--- | :--- | :--- |
-| **Download APK Terbaru** | [**https://github.com/CikitaSembiring/anime_verse_lab2/releases**](**[(https://github.com/CikitaSembiring/anime_verse_lab2/releases)]**) | **v1.0.1**  |
+| **Download APK Terbaru** | [**KLIK DISINI UNTUK KE HALAMAN RELEASES**](**[https://github.com/CikitaSembiring/anime_verse_lab2/releases]**) | **v1.0.1**  |
 
 ---
