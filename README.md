@@ -66,7 +66,8 @@ Tampilkan semua screen utama yang berfungsi. **Ganti placeholder di bawah dengan
 ** |
 | **Halaman Profile & Settings** | **<img width="300" alt="Screenshot_20251205_004558" src="https://github.com/user-attachments/assets/c61f6439-f22d-40b0-9589-176c24867482" />
 ** |
-| **Bukti Database Firebase** | **** |
+| **Bukti Database Firebase** | **<img width="300"  alt="image" src="https://github.com/user-attachments/assets/b7e711bd-78dd-4ac1-a1ae-782668818f01" />
+** |
 
 ---
 
