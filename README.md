@@ -77,7 +77,7 @@ Video demo berdurasi maksimal **3 menit** dan menunjukkan semua fitur utama (_Lo
 
 ### 🔗 Tautan Video Demo
 
-[**KLIK DISINI UNTUK MENONTON VIDEO DEMO**](**(https://drive.google.com/drive/folders/1jwDbVj1JoSoF_62k_icnDWVnCLJrai4a?usp=drive_link)**)
+[**KLIK DISINI UNTUK MENONTON VIDEO DEMO**](https://drive.google.com/drive/folders/1jwDbVj1JoSoF_62k_icnDWVnCLJrai4a?usp=drive_link)
 
 ---
 
