@@ -73,7 +73,7 @@ Tampilkan semua screen utama yang berfungsi. **Ganti placeholder di bawah dengan
 
 ## IV. 🎬 Video Demo & Bukti Firebase Ownership
 
-Video demo berdurasi maksimal **3 menit** dan menunjukkan semua fitur utama (_Login, Browse, Favorites, Profile, Change/Forgot Password_), serta bukti kepemilikan **Firebase Console** (Project Name, Authentication Status, dan Firestore Database).
+Video demo dan menunjukkan semua fitur utama (_Login, Browse, Favorites, Profile, Change/Forgot Password_), serta bukti kepemilikan **Firebase Console** (Project Name, Authentication Status, dan Firestore Database).
 
 ### 🔗 Tautan Video Demo
 
