@@ -10,7 +10,7 @@
 
 ## 💡 Deskripsi Aplikasi
 
-**Anime Verse** adalah aplikasi mobile berbasis **Flutter** yang dikembangkan untuk memenuhi tugas mata kuliah **Pemrograman Mobile** Semester Ganjil T.A. 2025/2026.
+**Anime Verse** adalah aplikasi mobile berbasis **Flutter** yang dikembangkan untuk memenuhi tugas mata kuliah **Pemrograman Mobile** Semester 5.
 
 Aplikasi ini berfungsi penuh untuk **otentikasi pengguna** dan mengelola **data favorit secara real-time** menggunakan layanan **Google Firebase**. Fitur utamanya mencakup browsing katalog anime, pencarian, filtering, dan manajemen akun pengguna yang lengkap.
 
